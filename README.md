@@ -1,121 +1,45 @@
-# Átila Goes  
-**`Software Developer`**
+# Átila Góes
 
-Hello World! Tenho 21 anos e sou apaixonado por tecnologia desde cedo. Sou Técnico em Manutenção e Suporte e, atualmente, curso **Desenvolvimento de Sistemas no SENAI**. Hoje atuo como **Estagiário em Desenvolvimento PHP na W5I Tecnologia**, onde venho ganhando experiência prática no desenvolvimento e manutenção de sistemas corporativos.
+Tenho 22 anos e sou apaixonado por tecnologia desde cedo. Sou formado em **Desenvolvimento de Sistemas pelo SENAI** e possuo formação técnica em **Manutenção e Suporte em TI**.
 
-Sou movido por desafios e pela curiosidade. Gosto de entender como as coisas funcionam por trás do código, experimentar novas linguagens e aprender algo novo todos os dias. Tenho experiência com **PHP, C#, Python**, além de trabalhar com **SQL, JavaScript e desenvolvimento web**.
+Atualmente estou construindo minha carreira na área de **Tecnologia da Informação**, acumulando experiências em desenvolvimento de software, suporte técnico, atendimento a usuários e processos corporativos.
 
-Minha abordagem é sempre proativa e focada em evolução contínua — seja construindo projetos próprios, estudando novas ferramentas ou aplicando boas práticas no ambiente de trabalho. Meu objetivo é crescer como desenvolvedor e contribuir de forma significativa em cada equipe por onde passo.
+Tenho experiência com **PHP (Adianti Framework e Laravel)**, **Python (Django, Flask e FastAPI)**, **C# (.NET e ASP.NET Core)**, além de bancos de dados **PostgreSQL** e **MySQL**. Também possuo conhecimentos em **SQL**, **JavaScript**, **CSS**, **Git/GitHub**, desenvolvimento web e soluções corporativas.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/átila-conceição-de-goes-001030154" target="_blank">
-      <img 
-        alt="Linkedin"
-        title="Linkedin"
-        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a> 
-</p>
+Sou uma pessoa curiosa, dedicada e movida por desafios. Gosto de entender como as tecnologias funcionam, aprender novas ferramentas e transformar conhecimento em soluções práticas. Estou sempre buscando evoluir tecnicamente por meio de estudos, projetos pessoais e experiências profissionais.
 
----
+## 🚀 Tecnologias
 
-### Linguagens e Tecnologias
+### Back-end
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<img 
-    align="left" 
-    alt="CSharp" 
-    title="CSharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postgres" 
-    title="Postgres"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Vue.js" 
-    title="Vue.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+### Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<br/>
-<br/>
+### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎯 Objetivo
+
+Busco oportunidades na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, suporte técnico, infraestrutura e soluções tecnológicas. Meu objetivo é evoluir continuamente como profissional e contribuir com projetos que gerem impacto real.
+
+## 📫 Contato
+
+- 📧 **atilagoes.tech@gmail.com**
+- 💼 **LinkedIn:** [Átila Conceição de Goes](https://www.linkedin.com/in/%C3%A1tila-concei%C3%A7%C3%A3o-de-goes-001030154)
