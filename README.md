@@ -37,7 +37,7 @@ Sou uma pessoa curiosa, dedicada e movida por desafios. Gosto de entender como a
 
 ## 🎯 Objetivo
 
-Busco oportunidades na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, suporte técnico, infraestrutura e soluções tecnológicas. Meu objetivo é evoluir continuamente como profissional e contribuir com projetos que gerem impacto real.
+Desenvolvedor Full Stack Júnior com experiência prática no desenvolvimento de aplicações web utilizando PHP, PostgreSQL, SQL, HTML, CSS e Git. Conhecimento em Python (Django, Flask e FastAPI), C# (.NET) e Laravel. Busco atuar no desenvolvimento de aplicações web, implementando novas funcionalidades, manutenção de sistemas e soluções de qualidade, contribuindo com aprendizado contínuo e evolução técnica.
 
 ## 📫 Contato
 
